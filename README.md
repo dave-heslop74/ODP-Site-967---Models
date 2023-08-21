@@ -1,5 +1,5 @@
 ## Python and Julia code to support manuscript:
-### D. Heslop, U. Amarathunga and E. J. Rohling (2023). North African Plio-Pleistocene monsoon runoff and its impacts on the Mediterranean Sea. Paleoceanography and Paleoclimatology (submitted).
+### D. Heslop, U. Amarathunga and E. J. Rohling (2023). North African Plio-Pleistocene monsoon runoff and its impacts on the Mediterranean Sea.
 
 Code and data files are provided in two folders to recreate manuscript Figures 2, 3, 5, 6, 7 and 8.
 
